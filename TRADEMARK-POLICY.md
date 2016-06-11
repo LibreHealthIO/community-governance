@@ -27,7 +27,7 @@ trademarks, service marks, and graphic logos in service of our volunteer
 community. As a US-based corporation, we have a legal responsibility and 
 authority to set guidelines for the use of our marks. This Trademark Policy 
 outlines how we use our trademarks and logos to identify software developed 
-and distributed by LibreHealth and its products. 
+and distributed by LibreHealth. 
 
 The following information helps ensure our marks and logos are used in approved 
 ways, while making it easy for the community we serve to understand the guidelines. 
