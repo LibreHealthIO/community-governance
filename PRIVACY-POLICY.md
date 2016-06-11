@@ -2,7 +2,7 @@
 
 LibreHealth is a free & open source project organized by a worldwide group of volunteers. Our challenges and goals are large. For that reason, we have a very permissive (non) privacy policy that mirrors our public mission.
 
-Please assume that everything you contribute intentionally to LibreHealth is public. This includes emails on public forums, wikis, online discussions of all sorts, and software or documentation that you post to our websites.
+Please assume that everything you contribute intentionally to LibreHealth is public. This includes messages on public forums, wikis, online discussions of all sorts, and software or documentation that you post to our websites.
 
 Because we value mutual personal respect, disclosure of interests, and openness of expression, even your LibreHealth community profile is public information. There will be cases where you are invited to share private information for various purposes, and denote that information as such. In those cases, we commit to only disclosing that information without your permission upon receipt of valid legal orders, and whenever possible, following notice from LibreHealth to you.
 
