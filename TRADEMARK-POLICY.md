@@ -1,14 +1,14 @@
 # LibreHealth Trademark Policy
 
-Open source software from the LibreHealth community is free to copy, to modify and to distribute. It is licensed under the Mozilla Public License 2.0 with Healthcare Disclaimer (MPL 2.0 HD).
+Open source software from LibreHealth is free to copy, to modify and to distribute. It is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) with Healthcare Disclaimer (MPL 2.0 HD).
 
-Meanwhile, the trademarks for that software – including the "LibreHealth” word mark and the graphic logo on the top of this page – are kept as private property. Trademarks are different than copyrights, particularly in an open source community such as LibreHealth. Trademarks can only be copied for certain specific purposes ("nominative fair use") and they cannot be modified in such a way as to confuse consumers about the origin of the FOSS software ("confusing similarity"). (These trademark law terms are described more completely below.)
+Meanwhile, the trademarks for this software – including the "LibreHealth" wordmark and the graphic logo – are kept as private property. Trademarks are different than copyrights, particularly in an open source community such as LibreHealth. Trademarks can only be copied for certain specific purposes ("nominative fair use") and cannot be modified in a way to confuse consumers about the origin of the FOSS software ("confusing similarity"). These trademark law terms are described more completely below.
 
-Examples of FOSS trademarks: Linux, Eclipse, Apache, JBoss, MySQL, Firefox, Mozilla, Jaspersoft, Hadoop, Java, OpenOffice....
+Examples of FOSS trademarks: Linux, Eclipse, Apache, JBoss, MySQL, Firefox, Mozilla, Jaspersoft, Hadoop, Java, OpenOffice etc.
 
-"LibreHealth” is like those trademarks. It is a visible brand associated with high-quality open source software for healthcare. It is a brand that was created by our worldwide community. Our brand represents our collective pride and our reputation. We don't want anyone to misuse or misappropriate our brand. We want the value of our trademarks to accrue to the LibreHealth project and its participants as a whole.
+"LibreHealth" is like those trademarks. It is a visible brand associated with high-quality open source software for healthcare. It is a brand created by our worldwide community. Our brand represents our collective pride and our reputation. We do not want anyone to misuse or misappropriate our brand. We want the value of our trademarks to accrue to LibreHealth and its participants as a whole.
 
-Humanitech Inc. is a non-profit corporation that owns and manages all LibreHealth-related trademarks, service marks, and graphic logos in service of our volunteer community. As a US-based corporation, we have a legal responsibility and the authority to set guidelines for the use of our marks. This Trademark Policy outlines how we use our trademarks and logos to identify LibreHealth software developed and distributed by LibreHealth projects. 
+Humanitech Inc. is a non-profit corporation that owns and manages all LibreHealth-related trademarks, service marks, and graphic logos in service of our volunteer community. As a US-based corporation, we have a legal responsibility and authority to set guidelines for the use of our marks. This Trademark Policy outlines how we use our trademarks and logos to identify software developed and distributed by LibreHealth and its products. 
 
 The following information helps ensure our marks and logos are used in approved ways, while making it easy for the community we serve to understand the guidelines. If you have any questions about the use of logos or trademarks that are not addressed in these guidelines, feel free to contact us at community@librehealth.io.
 
@@ -29,7 +29,7 @@ A trademark is a word, phrase, symbol or design, or a combination of words, phra
 
 These rules are generalized in this document to describe LibreHealth software associated with the trademark "LibreHealth Foo™", or more briefly "Foo™" when it is understood to refer to this specific LibreHealth Foo software. Like all LibreHealth software, this Foo software is maintained by a LibreHealth project or sub-project.
 
-LibreHealth trademarks are either words (e.g., "LibreHealth" and "LibreHealth Foo" and "Foo") or graphic logos that are intended to serve as trademarks for that LibreHealth software. The LibreHealth graphic logo at at the top of this page and described in the LibreHealth Logo Policy, has special meaning for the LibreHealth community: We intend that graphic logo to be used for linking third party websites to LibreHealth websites.
+LibreHealth trademarks are either words (e.g., "LibreHealth" and "LibreHealth Foo" and "Foo") or graphic logos that are intended to serve as trademarks for that LibreHealth software. The LibreHealth graphic logo is described in the LibreHealth Logo Policy, has special meaning for the LibreHealth community: We intend that graphic logo to be used for linking third party websites to LibreHealth websites.
 
 Within LibreHealth projects, during our product release activity and on LibreHealth websites, we will make sure that our trademarks are marked with a (TM) or (R) symbol or shown with trademark notices where appropriate so that everyone will recognize them as LibreHealth trademarks. A current list of LibreHealth trademarks is available at http://librehealth.io/.
 
@@ -68,13 +68,13 @@ Examples of permitted nominative fair use:
 
 ### Using LibreHealth trademarks in book and article titles
 
-You may write about LibreHealth software, and use our trademarks in book or article titles. You needn't ask us for permission to refer to Foo, as in "Foo for Dummies", or "Explaining Foo", or "Foo Simplified", or "O'Reilly Guide to Foo", or even "Avoiding Foo".
+You may write about LibreHealth software, and use our trademarks in book or article titles. You needn't ask us for permission to refer to Foo, as in "Foo for Dummies", or "Explaining Foo", or "Foo Simplified", or even "Avoiding Foo".
 
 We prefer that you refer to "LibreHealth Foo" rather than simply "Foo" in the title if it fits, and we request that you clearly identify that "LibreHealth", "LibreHealth Foo", and "Foo" are trademarks of Humanitech Inc. wherever you normally acknowledge important trademarks in your book or article.
 
 ### Using LibreHealth graphic logos 
 
-Graphic logos are contributed to LibreHealth by artists as a way of creating a symbol with which the LibreHealth project software can be identified. Those graphic logos are special to the LibreHealth projects that mark their software with those logos. The LibreHealth graphic logo is a special trademark to the LibreHealth community and we intend to prevent its use in association with other companies' software or related services.
+Graphic logos are contributed to LibreHealth by artists as a way of creating a symbol with which the LibreHealth software can be identified. Those graphic logos are special to the LibreHealth projects that mark their software with those logos. The LibreHealth graphic logo is a special trademark to LibreHealth and we intend to prevent its use in association with other companies' software or related services.
 
 It is not necessary to ask us for permission to use LibreHealth graphic logos (the versions published on LibreHealth websites) on your own website solely as a hyperlink to LibreHealth websites, or in other materials, such as presentations and slides, solely as a means to refer to LibreHealth or the LibreHealth community itself.
 
@@ -86,7 +86,7 @@ If you have any questions or concerns about the use of or changes to any LibreHe
 
 We will typically grant written permission to apply LibreHealth trademarks (including graphic logos) for merchandise that promotes LibreHealth, its software, community, or its worldwide mission.
 
-Permission to apply LibreHealth trademarks will ordinarily be denied for merchandise that disparages LibreHealth software or projects or that would serve to detract from the value of LibreHealth, its software, community,or its brands.
+Permission to apply LibreHealth trademarks will ordinarily be denied for merchandise that disparages LibreHealth software or projects or that would serve to detract from the value of LibreHealth, its software, community, or its brands.
 
 ### Using LibreHealth trademarks in domain names
 
