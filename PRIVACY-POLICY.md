@@ -10,4 +10,6 @@ Although what you disclose here is public, we are all limited by copyright and p
 
 LibreHealth welcomes your questions or comments regarding this Privacy Policy. Send them to community@librehealth.io.
 
-*Acknowledgements: This work, "LibreHealth Privacy Policy", is a derivative of "OpenMRS Privacy Policy" by OpenMRS Inc., used under the Creative Commons 4.0 International Attribution License (CC BY 4.0). "LibreHealth Privacy Policy" is licensed under the Creative Commons 4.0 International Attribution License (CC BY 4.0) by Humanitech Inc.*
+## Acknowledgements
+
+*This work, "LibreHealth Privacy Policy", is a derivative of "OpenMRS Privacy Policy" by OpenMRS Inc., used under the Creative Commons 4.0 International Attribution License (CC BY 4.0). "LibreHealth Privacy Policy" is licensed under the Creative Commons 4.0 International Attribution License (CC BY 4.0) by Humanitech Inc.*
