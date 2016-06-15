@@ -161,15 +161,15 @@ More information on making contributions can be found in the following documents
 Developers who have earned the trust of maintainers (including the project lead) 
 can be promoted to Maintainer. A two-stage mechanism is used:
 
-- Nomination: A maintainer should nominate himself by proposing a patch to the MAINTAINERS file or mailing a nomination to the project's mailing list. Alternatively another maintainer may nominate a community member. A nomination should explain the contributions of proposed maintainer to the project as well as a scope (set of owned components). Where the case is not obvious, evidence such as specific patches and other evidence supporting the nomination should be cited.
-- Confirmation: Normally, there is no need for a direct election to confirm a new maintainer. Discussion should happen on the mailing list using the principles of consensus decision making. If there is disagreement or doubt, the project lead or a committer should ask the community manager to arrange a more formal vote.
+- **Nomination:** A maintainer should nominate himself by proposing a patch to the MAINTAINERS file or mailing a nomination to the project's mailing list. Alternatively another maintainer may nominate a community member. A nomination should explain the contributions of proposed maintainer to the project as well as a scope (set of owned components). Where the case is not obvious, evidence such as specific patches and other evidence supporting the nomination should be cited.
+- **Confirmation:** Normally, there is no need for a direct election to confirm a new maintainer. Discussion should happen on the mailing list using the principles of consensus decision making. If there is disagreement or doubt, the project lead or a committer should ask the community manager to arrange a more formal vote.
 
 ### Committer Elections
 
 Developers who have earned the trust of committers in their project can through election be promoted to Committer. A two-stage mechanism is used:
 
-- Nomination: Community members should nominate candidates by posting a proposal by sending a direct message to the "Appointments" group on LibreHealth Forums, explaining the candidate's contributions to the project and thus why they should be elected to become a Committer of the project. The nomination should cite evidence such as patches and other contributions where the case is not obvious. Existing Committers will review all proposals, check whether the nominee would be willing to accept the nomination and publish suitable nominations in the LibreHealth Forums publicly for wider community input.
-- Election: A committer will be elected using the decision making process outlined earlier. Voting will be done by committers for that project privately using a voting form that is created by the community manager. Should there be a negative vote the project lead and community manager will try and resolve the situation and reach consensus. Results will be published in the public forums.
+- **Nomination:** Community members should nominate candidates by posting a proposal by sending a direct message to the "Appointments" group on LibreHealth Forums, explaining the candidate's contributions to the project and thus why they should be elected to become a Committer of the project. The nomination should cite evidence such as patches and other contributions where the case is not obvious. Existing Committers will review all proposals, check whether the nominee would be willing to accept the nomination and publish suitable nominations in the LibreHealth Forums publicly for wider community input.
+- **Election:** A committer will be elected using the decision making process outlined earlier. Voting will be done by committers for that project privately using a voting form that is created by the community manager. Should there be a negative vote the project lead and community manager will try and resolve the situation and reach consensus. Results will be published in the public forums.
 
 ### Project Lead Elections
 
@@ -183,17 +183,17 @@ Sometimes it is necessary to conduct formal voting within the LibreHealth
 community (outside of elections). Formal votes are necessary when processes and 
 procedures are introduced or changed, or as part of the Project Governance. Who 
 is eligible to vote, depends on whether the scope of a process or procedure is 
-local to a project or team, or whether it affects all projects (global). 
+**local** to a project or team, or whether it affects all projects (**global**). 
 An examples of local scope is a code review policy which applies to the EMR 
 project only. Examples of global scope are changes to this document or votes 
 outlined in the LibreHealth Community Governance document.
 
-- Scope: Local
-  - Who reviews: Members of developer mailing lists of the affected projects.
-  - Who votes: Maintainers of the project (or projects), which are affected by the process, procedure, etc. are allowed to vote. This includes maintainers from incubation projects (if the scope affects the project).
-- Scope: Global
-  - Who reviews: Members of all developer mailing lists of all sub-projects hosted on Xenproject.org.
-  - Who votes: Maintainers of all mature projects and the Xenproject.org community manager are allowed to vote.
+- **Scope:** Local
+  - **Who reviews:** Members of developer mailing lists of the affected projects.
+  - **Who votes:** Maintainers of the project (or projects), which are affected by the process, procedure, etc. are allowed to vote. This includes maintainers from incubation projects (if the scope affects the project).
+- **Scope:** Global
+  - **Who reviews:** Readers of all LibreHealth Forums project categories.
+  - **Who votes:** Maintainers of all **mature projects** and the LibreHealth community manager are allowed to vote.
 
 The community manager first arranges a public review, followed by a timed 
 private vote. Public review and voting should be open for a minimum of a week 
@@ -240,13 +240,13 @@ become inactive.
 
 ### Requesting Reviews, Reviews and Voting
 
-Requesting Reviews: Project Proposal and Graduation Reviews are requested by the 
+**Requesting Reviews:** Project Proposal and Graduation Reviews are requested by the 
 (prospective) project lead of the project by contacting the community manager 
 providing the necessary documentation. An archival review can be requested by 
 any maintainer of a mature project or by the LibreHealth community manager. The 
 community manager will then publish relevant material on the respective forums.
 
-Reviews: These are off-line reviews which are open to all community members by 
+**Reviews:** These are off-line reviews which are open to all community members by 
 which a proposal is published for review. The purpose of the review is two-fold:
 
 - To gather final feedback and input from the community (it is good practice to informally do this before the review), and
@@ -255,7 +255,7 @@ which a proposal is published for review. The purpose of the review is two-fold:
 After a review, the requester of the review may decide to withdraw, request a 
 re-review or progress to a vote by arranging with the community manager.
 
-Voting: The community manager arranges a timed private vote as outlined in 
+**Voting:** The community manager arranges a timed private vote as outlined in 
 Formal Votes.
 
 ### Forming a Project
@@ -415,4 +415,4 @@ Inc.*
 
 ## Change History
 
-- ver. 0.1 Initial Draft, 15 June 2016
+- **ver. 0.1** Initial Draft, 15 June 2016
