@@ -326,12 +326,12 @@ pitch to the community about why the project should graduate.
 
 A project must fulfill the following requirements before it can graduate:
 
-# It follows the principles of openness, transparency and meritocracy.
-# It has delivered at least one functioning release of what it is aiming to deliver.
-# It has a public code repository which shows active development, has mechanisms to accept patches, and a history of accepting patches.
-# It has a public forum that is active. 
-# It has a mechanism for users to raise bugs and for developers to work on bugs.
-# It has an active developer community, including multiple maintainers, a diverse profile of individuals, etc.
+1. It follows the principles of openness, transparency and meritocracy.
+2. It has delivered at least one functioning release of what it is aiming to deliver.
+3. It has a public code repository which shows active development, has mechanisms to accept patches, and a history of accepting patches.
+4. It has a public forum that is active. 
+5. It has a mechanism for users to raise bugs and for developers to work on bugs.
+6. It has an active developer community, including multiple maintainers, a diverse profile of individuals, etc.
 
 Other items to look at during the review (depending on project are):
 
