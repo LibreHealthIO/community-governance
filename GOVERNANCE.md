@@ -41,10 +41,22 @@ and earned by peer acclaim.
 
 ### Consensus Decision Making
 
-LibreHealth projects or teams are normally self-governing and driven by the 
-people who volunteer for the job. When more formal decision making and coordination 
-is required, decisions are taken with a "lazy consensus" approach: a few positive 
-votes with no negative vote are enough to get going.
+LibreHealth projects or teams are self-governing and driven by the people who 
+volunteer for the job. When more formal decision making and coordination 
+is required, decisions are taken with a ["lazy consensus"](http://openoffice.apache.org/docs/governance/lazyConsensus.html) approach: a few positive 
+votes with no negative vote is enough to get going.
+
+Sometimes a member of the community will believe a specific action is the correct
+one for the community but are not sure enough to proceed with the work under 
+the lazy consensus model. In these circumstances they can state Lazy Consensus 
+is in operation.
+
+What this means is that they make a proposal and state that they will start 
+implementing it in **72 hours** unless someone objects. 72 hours is chosen because 
+it accounts for different timezones and non-apache commitments. If the 72 hours 
+are touching a weekend/holidays it would be wise to extend the timeframe a bit. 
+This will ensure that people can participate in the proposal even when they 
+were offline over the weekend.
 
 Voting is done with numbers:
 
@@ -73,33 +85,33 @@ privately vote on an issue, giving the decision more weight.
 
 In some rare cases, the lazy consensus approach may lead to the community being 
 paralyzed. Thus, as a last resort when consensus cannot be achieved on a 
-question internal to a project, the final decision will be made by a private 
+question internal to a project, the final decision will be made by a secret ballot 
 majority vote amongst the committers and project lead. If the vote is tied, the 
 project lead gets an extra vote to break the tie.
 
 For questions that affect several projects, committers and project leads of 
-mature projects will hold a private majority vote. If the vote is tied, the 
-LibreHealth Steering Committee will break the tie through a casting vote.
+mature projects will hold a secret ballot majority vote. If the vote is tied,
+the LibreHealth Steering Committee will break the tie through a casting vote.
 
 ## Roles
 
 ### Maintainers
 
-Maintainers own one or several components in LibreHealth code repositories. A 
-maintainer reviews and approves changes that affect their components. It is a 
-maintainer's prime responsibility to review, comment on, co-ordinate and accept 
-patches from other community members, and to maintain the design cohesion of 
-their components. A project's maintainers shall be listed in a MAINTAINERS file 
-in the root of that project's code repository.
+Maintainers own one or several components in LibreHealth. A maintainer reviews
+and approves changes that affect their components. It is a maintainer's prime
+responsibility to review, comment on, co-ordinate and accept patches from 
+community members, and to maintain the design cohesion of their components.
+A project's maintainers shall be listed in a MAINTAINERS file in the root of 
+that project's code repository or documentation page.
 
 ### Committers
 
-Committers are Maintainers that are allowed to commit changes into the source 
-code repository. The committer acts on the wishes of the maintainers and applies 
-changes that have been approved by the respective maintainer(s) to the source 
-code repository. Due to their status in the community, committers can also act 
-as referees should disagreements amongst maintainers arise. Committers are 
-listed on the project's team web page. 
+Committers are Maintainers who are allowed to commit changes into a repository.
+The committer acts on the wishes of the maintainers and applies changes 
+that have been approved by the respective maintainer(s) to the repository. 
+Due to their status in the community, committers can also act as referees,
+should disagreements amongst maintainers arise. Committers are listed on 
+the project's team web page. 
 
 ### Projects and Teams
 
@@ -111,8 +123,8 @@ on LibreHealth.io.
 
 ### Project Lead
 
-LibreHealth projects and teams are managed by a Project Lead, who also is a 
-committer of the project/team they lead. Project Leads are the public 
+LibreHealth projects and teams are managed by a Project Lead, who is also a 
+committer of the project/team they lead. Project Lead is the public 
 figurehead of the project and is responsible for the health of the project. Due 
 to their status in the community, project leads can also act as referees should 
 disagreements amongst committers of the project arise. The project lead 
@@ -133,7 +145,9 @@ source meritocracy.
 
 Younger projects may have a need for a mentor to help ensure that the project 
 will be successful. Mentors can be maintainers, project leads, Steering 
-Committee members or other distinguished community members.
+Committee members or other distinguished community members. Mentors are expected
+to have a monthly review and report back to the community about movement from
+incubation to maturity.
 
 ### Sponsor
 
@@ -141,7 +155,7 @@ To form a new LibreHealth project or team, we require a sponsor to support the
 creation of the new project. A sponsor can be a project lead or committer of a 
 mature project, a member of the Steering Committee or the community manager. 
 This ensures that a distinguished community member supports the idea behind 
-the project.
+the project and is responsible to find an appropriate mentor for the project.
 
 ## Making Contributions
 
@@ -152,7 +166,7 @@ community members to sign contribution or committer agreements.
 
 More information on making contributions can be found in the following documents:
 
-- Contribution Guidelines
+- Contribution Guidelines (upcoming)
 
 ## Elections and Formal Votes
 
@@ -161,15 +175,39 @@ More information on making contributions can be found in the following documents
 Developers who have earned the trust of maintainers (including the project lead) 
 can be promoted to Maintainer. A two-stage mechanism is used:
 
-- **Nomination:** A maintainer should nominate himself by proposing a patch to the MAINTAINERS file or mailing a nomination to the project's mailing list. Alternatively another maintainer may nominate a community member. A nomination should explain the contributions of proposed maintainer to the project as well as a scope (set of owned components). Where the case is not obvious, evidence such as specific patches and other evidence supporting the nomination should be cited.
-- **Confirmation:** Normally, there is no need for a direct election to confirm a new maintainer. Discussion should happen on the mailing list using the principles of consensus decision making. If there is disagreement or doubt, the project lead or a committer should ask the community manager to arrange a more formal vote.
+- **Nomination:** A maintainer should nominate himself by proposing a patch to 
+the MAINTAINERS file or mailing a nomination to the project's mailing list. 
+Alternatively another maintainer may nominate a community member. A nomination 
+should explain the contributions of proposed maintainer to the project 
+as well as a scope (set of owned components). Where the case is not obvious, 
+evidence such as specific patches and other evidence supporting the nomination 
+should be cited.
+- **Confirmation:** Normally, there is no need for a direct election to confirm 
+a new maintainer. Discussion should happen on the mailing list using 
+the principles of consensus decision making. If there is disagreement or doubt, 
+the project lead or a committer should ask the community manager to arrange 
+a more formal vote.
 
 ### Committer Elections
 
-Developers who have earned the trust of committers in their project can through election be promoted to Committer. A two-stage mechanism is used:
+Developers who have earned the trust of committers in their project can 
+through election be promoted to Committer. A two-stage mechanism is used:
 
-- **Nomination:** Community members should nominate candidates by posting a proposal by sending a direct message to the "Appointments" group on LibreHealth Forums, explaining the candidate's contributions to the project and thus why they should be elected to become a Committer of the project. The nomination should cite evidence such as patches and other contributions where the case is not obvious. Existing Committers will review all proposals, check whether the nominee would be willing to accept the nomination and publish suitable nominations in the LibreHealth Forums publicly for wider community input.
-- **Election:** A committer will be elected using the decision making process outlined earlier. Voting will be done by committers for that project privately using a voting form that is created by the community manager. Should there be a negative vote the project lead and community manager will try and resolve the situation and reach consensus. Results will be published in the public forums.
+- **Nomination:** Community members should nominate candidates by posting 
+a proposal by sending a direct message to the "Appointments" group on 
+LibreHealth Forums, explaining the candidate's contributions to the project 
+and thus why they should be elected to become a Committer of the project. 
+The nomination should cite evidence such as patches and other contributions 
+where the case is not obvious. Existing Committers will review all proposals, 
+check whether the nominee would be willing to accept the nomination 
+and publish suitable nominations in the LibreHealth Forums publicly 
+for wider community input.
+- **Election:** A committer will be elected using the decision making process 
+outlined earlier. Voting will be done by committers for that project privately 
+using a voting form that is created by the community manager. Should there 
+be a negative vote the project lead and community manager will try 
+and resolve the situation and reach consensus. Results will be published 
+in the public forums.
 
 ### Project Lead Elections
 
@@ -190,10 +228,13 @@ outlined in the LibreHealth Community Governance document.
 
 - **Scope:** Local
   - **Who reviews:** Members of developer mailing lists of the affected projects.
-  - **Who votes:** Maintainers of the project (or projects), which are affected by the process, procedure, etc. are allowed to vote. This includes maintainers from incubation projects (if the scope affects the project).
+  - **Who votes:** Maintainers of the project (or projects), which are affected 
+  by the process, procedure, etc. are allowed to vote. This includes maintainers
+  from incubation projects (if the scope affects the project).
 - **Scope:** Global
   - **Who reviews:** Readers of all LibreHealth Forums project categories.
-  - **Who votes:** Maintainers of all **mature projects** and the LibreHealth community manager are allowed to vote.
+  - **Who votes:** Maintainers of all **mature projects** and the LibreHealth 
+  community manager are allowed to vote.
 
 The community manager first arranges a public review, followed by a timed 
 private vote. Public review and voting should be open for a minimum of a week 
@@ -207,7 +248,7 @@ as laid out in "Principle: Consensus Decision Making".
 
 The proposal is to follow a simple basic flow:
 
-(insert image here)
+![alt tag](http://i.imgur.com/5t4N6zW.png)
 
 A LibreHealth project starts with an idea which through the process of project 
 formation will grow into a project proposal. The project proposal will need to 
@@ -231,8 +272,10 @@ community can request an archival review, which follows the usual pattern.
 
 Archival reviews have two purposes:
 
-- To give somebody in the community an opportunity to step up and continue a project, and
-- To archive the project outcomes such that they are still available to people who want to use them, but promotion of such projects will cease.
+- To give somebody in the community an opportunity to step up and continue 
+a project, and
+- To archive the project outcomes such that they are still available to people 
+who want to use them, but promotion of such projects will cease.
 
 It is also possible to revive archived projects. However these are treated 
 almost like new projects as projects would only be archived if they have 
