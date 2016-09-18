@@ -248,7 +248,7 @@ as laid out in "Principle: Consensus Decision Making".
 
 The proposal is to follow a simple basic flow:
 
-![alt tag](http://i.imgur.com/5t4N6zW.png)
+![alt tag](http://i.imgur.com/f1mgSxN.png)
 
 A LibreHealth project starts with an idea which through the process of project 
 formation will grow into a project proposal. The project proposal will need to 
