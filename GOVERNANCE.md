@@ -53,7 +53,7 @@ is in operation.
 
 What this means is that they make a proposal and state that they will start 
 implementing it in **72 hours** unless someone objects. 72 hours is chosen because 
-it accounts for different timezones and non-apache commitments. If the 72 hours 
+it accounts for different timezones and non-LibreHealth commitments. If the 72 hours 
 are touching a weekend/holidays it would be wise to extend the timeframe a bit. 
 This will ensure that people can participate in the proposal even when they 
 were offline over the weekend.
