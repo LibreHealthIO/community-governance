@@ -4,7 +4,7 @@ You and other contributors are part of the growing LibreHealth community. We wor
 
 Our Contribution Policy is simple: Voluntary contributions are gratefully accepted as long as the LibreHealth community and all downstream users are allowed to use those contributions for our mission to benefit the public.
 
-There are many kinds of contributions we invite you to make for this cause:  
+There are many kinds of contributions we invite you to make for this cause:
 
 - Tangible contributions of intellectual property such as source code and documentation, ideas and inventions, and other technical solutions to health care delivery problems
 - In-kind and financial donations to support our activities
@@ -12,9 +12,9 @@ There are many kinds of contributions we invite you to make for this cause:
 
 LibreHealth accepts intellectual property contributions of many kinds and then collects them into LibreHealth software distributions that are licensed to the public under the open source Mozilla Public License 2.0 with Healthcare Disclaimer (MPL 2.0 HD).  Non-code contributions such as documentation, images, or other creative works are made available under the Creative Commons Attribution 4.0 International License.
 
-The details around intellectual property contributions in particular are often tricky to understand.  As described more fully below, LibreHealth project teams review all software contributions to ensure that open source licenses for the contributions are compatible with the MPL 2.0 HD license. 
+The details around intellectual property contributions in particular are often tricky to understand.  As described more fully below, LibreHealth project teams review all software contributions to ensure that open source licenses for the contributions are compatible with the MPL 2.0 HD license.
 
-If you have questions about any aspect of the LibreHealth Contribution Policy, please contact community@librehealth.io. 
+If you have questions about any aspect of the LibreHealth Contribution Policy, please contact community@librehealth.io.
 
 ## Contributions of Intellectual Property
 
@@ -34,14 +34,14 @@ To ensure licensing consistency, we take steps to determine that contributions o
 The NOTICE file that accompanies every formal distribution of software by an LibreHealth project identifies each third-party component in that software and the open source or Creative Commons license under which that component is available to the public. The following information, if available, will also be included in the NOTICE file:
 
 - Copyright notices supplied by the licensor(s) of any part of the software. LibreHealth project teams may elect to remove individual copyright notices that detract from the "community" ethos of the project, but individual copyrights will still be protected by a legally-effective and encompassing copyright notice such as "Copyright (C) 2016 Humanitech Inc."
-- Patent notices identifying specific patents or patent claims that may read on the software. Contributors and all project team members are expected to disclose any patent claims of which they are aware. In the event that possible patent claims may be confidential, the contributor must disclose enough about them to alert the public about possible future encumbrances. 
-- Identification of industry standards implemented by the software. 
+- Patent notices identifying specific patents or patent claims that may read on the software. Contributors and all project team members are expected to disclose any patent claims of which they are aware. In the event that possible patent claims may be confidential, the contributor must disclose enough about them to alert the public about possible future encumbrances.
+- Identification of industry standards implemented by the software.
 - LibreHealth community projects and contributors may also include acknowledgement and attribution to individuals, companies or other organizations for significant portions of the software or its documentation, or who contributed in other ways to the project as a whole.
 - Other important notices that the LibreHealth project team or its contributors want to share with the downstream users of that software.
 
 ## Approved Open Source Licenses for LibreHealth Contributions
 
-LibreHealth relies on the recommendations of Open Source Initiative, the Free Software Foundation, and Creative Commons to determine which free and open source licenses are compatible with the Mozilla Public License 2.0 with Healthcare Disclaimer (MPL 2.0 HD) under which LibreHealth distributes software and documentation. 
+LibreHealth relies on the recommendations of Open Source Initiative, the Free Software Foundation, and Creative Commons to determine which free and open source licenses are compatible with the Mozilla Public License 2.0 with Healthcare Disclaimer (MPL 2.0 HD) under which LibreHealth distributes software and documentation.
 
 Some of those licenses may not be compatible with the license requirements of some commercial companies. That is another purpose for the NOTICE file that LibreHealth projects provide with each software distribution. Each downstream modifier and/or distributor of LibreHealth software and documentation is responsible for making such license compatibility determinations for itself.
 

@@ -16,9 +16,9 @@ See the LibreHealth Contribution Policy for more information about the contents 
 
 Any and all original material that is posted by any member of the public or by a registered LibreHealth contributor to any LibreHealth-operated website shall be publicly available under the Creative Commons Attribution 4.0 International License, unless otherwise noted. Certain material that is not original to LibreHealth (which will be specifically noted as such) may require permission from the copyright holder to redistribute.
 
-You do NOT have to ask permission to post your own material on a LibreHealth mailing list or forum. Refer to the LibreHealth Privacy Policy for additional information about such postings. 
+You do NOT have to ask permission to post your own material on a LibreHealth mailing list or forum. Refer to the LibreHealth Privacy Policy for additional information about such postings.
 
-You do NOT have to ask permission to reprint an LibreHealth statement from our website in an article. Permission to do this is explicitly granted. Note also that the open source and Creative Commons licenses used for copyrighted materials on LibreHealth websites all allow such fair uses. 
+You do NOT have to ask permission to reprint an LibreHealth statement from our website in an article. Permission to do this is explicitly granted. Note also that the open source and Creative Commons licenses used for copyrighted materials on LibreHealth websites all allow such fair uses.
 
 If you redistribute something you retrieved from a LibreHealth website, please inform recipients where that copyrighted work originated, so people can get more information or updated versions directly at the LibreHealth website.
 
@@ -30,7 +30,7 @@ Refer to the LibreHealth Trademark Policy for additional information.
 
 ##DMCA Notices and Copyright Infringement Notification
 
-If you believe there is content on an LibreHealth website that violates copyright law, let us know. The notice should be sent to our designated agent, Michael Downey via email (community@librehealth.io).  
+If you believe there is content on an LibreHealth website that violates copyright law, let us know. The notice should be sent to our designated agent, Michael Downey via email (community@librehealth.io).
 
 Specifically, send us an email or letter that includes substantially the following:
 
