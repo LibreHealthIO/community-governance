@@ -166,7 +166,8 @@ community members to sign contribution or committer agreements.
 
 More information on making contributions can be found in the following documents:
 
-- Contribution Guidelines (upcoming)
+- [Contribution Guidelines for LibreHealth Toolkit](https://gitlab.com/librehealth/lh-toolkit/blob/master/CONTRIBUTING.md)
+- Contribution Guidelines (others upcoming)
 
 ## Elections and Formal Votes
 
