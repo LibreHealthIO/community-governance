@@ -1,7 +1,7 @@
 # LibreHealth Community Governance
 
 This policy came into effect in June 2016 and will be reviewed periodically
-(see revision sections). The last modification has been made in June 2016.
+(see revision history). The last modification has been made in February 2019.
 
 ## Goals
 
@@ -143,17 +143,32 @@ source meritocracy.
 
 #### Transparency and Privacy of Discussions
 
-As with the rest of the community, the LibreHealth Steering Committee should 
-strive to conduct most of its discussion in public venues. However, given the 
-nature of strategic discussions, private discussion areas in both the 
+As with the rest of the community, the LibreHealth Steering Committee should
+strive to conduct most of its discussion in public venues. However, given the
+nature of strategic discussions, private discussion areas in both the
 LibreHealth Forums and LibreHealth Chat systems will be established for use
-solely by Committee members. These venues function as the equivalent of an 
-executive session for a synchronous meeting, and should be reserved for 
+solely by Committee members. These venues function as the equivalent of an
+executive session for a synchronous meeting, and should be reserved for
 discussion of senstive matters, preliminary discussion of contracts, personnel
 issues, etc.
 
-Other discussion amongst Committee members regarding general topics should be 
+Other discussion amongst Committee members regarding general topics should be
 held in general Community discussion categories and channels whenever possible.
+
+#### Meetings
+
+The LibreHealth Steering Committee shall meet and conducting discussions as
+necessary from time to time asynchronously, using the community's existing
+communication tools. Additionally, the Committee shall conduct real-time,
+synchronous discussions at a minimum frequency of once per calendar quarter.
+For these synchronous meetings, a quorum of one member beyond 50% of the
+then-current membership shall be required. Should members not be in attendnace
+at these synchronous meetings for two (2) consecutive quarters, the Committee
+shall vote on continued participation of that member in their role.
+
+Synchronous meetings shall be documented with minutes posted publicly for
+review by the general public and entire community, with the exception of any
+executive sessions where private matters are discussed.
 
 ### Mentor
 
