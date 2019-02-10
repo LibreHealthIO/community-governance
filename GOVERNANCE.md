@@ -170,6 +170,23 @@ Synchronous meetings shall be documented with minutes posted publicly for
 review by the general public and entire community, with the exception of any
 executive sessions where private matters are discussed.
 
+#### Treasurer
+
+The LibreHealth Steering Committee shall appoint an individual to serve in the
+role of Treasurer. Such appointment shall last for a period of 12 months
+commencing with the month after a succesful vote of such appointee. The
+appointment may be renewed.
+
+The Treasurer shall prepare a financial summary of donors to and assets of the
+community, in consultation with the fiscal sponsor. This summary shall be
+produced at minimum of once per calendar quarter. Additional content for this
+report may be requested from time to time by the Committee.
+
+All other financial activities shall be conducted by the fiscal sponsor.
+
+The Treasurer role need not be filled by a current member of the LibreHealth
+Steering Committee, and may attend Committee meetings in an ex officio capacity.
+
 ### Mentor
 
 Younger projects may have a need for a mentor to help ensure that the project
