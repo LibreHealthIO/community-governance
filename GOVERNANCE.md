@@ -141,6 +141,20 @@ project infrastructure, marketing and events, and managing LibreHealth
 trademarks. The Steering Committee leaves all technical decisions to the open
 source meritocracy.
 
+#### Transparency and Privacy of Discussions
+
+As with the rest of the community, the LibreHealth Steering Committee should 
+strive to conduct most of its discussion in public venues. However, given the 
+nature of strategic discussions, private discussion areas in both the 
+LibreHealth Forums and LibreHealth Chat systems will be established for use
+solely by Committee members. These venues function as the equivalent of an 
+executive session for a synchronous meeting, and should be reserved for 
+discussion of senstive matters, preliminary discussion of contracts, personnel
+issues, etc.
+
+Other discussion amongst Committee members regarding general topics should be 
+held in general Community discussion categories and channels whenever possible.
+
 ### Mentor
 
 Younger projects may have a need for a mentor to help ensure that the project
